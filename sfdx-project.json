@@ -1,11 +1,45 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "packageq",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "DreamHouse",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "Newpath",
+            "package": "DreamHouse1",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "New-app",
+            "package": "myapp",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "43.0",
+    "packageAliases": {
+        "packageq": "0Ho0o000000PAzJCAW",
+        "package@0.1.0-1": "04t0o000003JKUmAAO",
+        "packageq@0.1.0-2": "04t0o000003JKUrAAO",
+        "DreamHouse": "0Ho0o000000PAzOCAW",
+        "DreamHouse1": "0Ho0o000000PAzTCAW",
+        "DreamHouse1@0.1.0-1": "04t0o000003JKV1AAO",
+        "myapp": "0Ho0o000000PAzYCAW",
+        "myapp@0.1.0-1": "04t0o000003JKVLAA4"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "43.0"
 }

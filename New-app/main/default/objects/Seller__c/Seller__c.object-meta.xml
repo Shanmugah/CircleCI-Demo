@@ -45,28 +45,19 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>Namespace_Prefix__c</fullName>
-        <externalId>false</externalId>
-        <label>Namespace Prefix</label>
-        <length>255</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <label>Sample</label>
+    <label>Seller</label>
     <nameField>
-        <label>Sample Name</label>
+        <label>Seller ID</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Samples</pluralLabel>
+    <pluralLabel>Sellers</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
