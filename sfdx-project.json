@@ -7,62 +7,8 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         },
-        {
-            "path": "force-app",
-            "package": "DreamHouse",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
-        {
-            "path": "Newpath",
-            "package": "DreamHouse1",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
-        {
-            "path": "New-app",
-            "package": "myapp",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
-        {
-            "path": "force-app",
-            "package": "packa",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
-        {
-            "path": "Newpath",
-            "package": "packag",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
-        {
-            "path": "New",
-            "package": "pac",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
-        {
-            "path": "New",
-            "package": "pc",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
-        {
-            "path": "Newf",
-            "package": "pck",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        },
+        
+       
         {
             "path": "Newfapp",
             "package": "pcks",
