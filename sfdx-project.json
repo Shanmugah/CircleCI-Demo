@@ -3,7 +3,7 @@
         {
             "path": "force-app",
             "default": true,
-            "package": "packageq",
+            "package": "package",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         },
@@ -27,19 +27,67 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "force-app",
+            "package": "packa",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "Newpath",
+            "package": "packag",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "New",
+            "package": "pac",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "New",
+            "package": "pc",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "Newf",
+            "package": "pck",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "Newfapp",
+            "package": "pcks",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "43.0",
     "packageAliases": {
-        "packageq": "0Ho0o000000PAzJCAW",
+        "package": "0Ho0o000000PAzJCAW",
         "package@0.1.0-1": "04t0o000003JKUmAAO",
         "packageq@0.1.0-2": "04t0o000003JKUrAAO",
         "DreamHouse": "0Ho0o000000PAzOCAW",
         "DreamHouse1": "0Ho0o000000PAzTCAW",
         "DreamHouse1@0.1.0-1": "04t0o000003JKV1AAO",
         "myapp": "0Ho0o000000PAzYCAW",
-        "myapp@0.1.0-1": "04t0o000003JKVLAA4"
+        "myapp@0.1.0-1": "04t0o000003JKVLAA4",
+        "packa": "0Ho0o000000PAzdCAG",
+        "packag": "0Ho0o000000PAziCAG",
+        "pac": "0Ho0o000000PAznCAG",
+        "pc": "0Ho2v000000TN44CAG",
+        "pck": "0Ho2v000000TN49CAG",
+        "pcks": "0Ho2v000000TN4ECAW"
     }
 }
